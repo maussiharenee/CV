@@ -1,5 +1,5 @@
 body{
-    background-color: wheat;
+    background-color: rgb(177, 176, 175);
 }
 
 .fiche{
@@ -11,7 +11,7 @@ body{
     border-radius: 10px;
     box-shadow: 2px 4px 3px rgb(26, 21, 21);
     padding: 20px;
-    background-color: white;
+    background-color: rgb(242, 242, 247);
 }
 
 .rens-image{
@@ -39,11 +39,12 @@ body{
 
 .sec-droite{
     margin-left: 150px;
-    margin-top: 39px;
+    margin-top: 38px;
+    
 }
 h2{
     font-size: 28px;
-    color: rgb(235, 238, 240);
+    color: #3388dd;
     border-bottom: #3388dd;
     background-color: rgb(12, 8, 8);
 }
